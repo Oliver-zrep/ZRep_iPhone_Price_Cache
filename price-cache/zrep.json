@@ -1,0 +1,2347 @@
+{
+  "ok": true,
+  "version": 1,
+  "updatedAt": "2026-08-13T01:43:47.150Z",
+  "models": [
+    {
+      "name": "iPhone 17",
+      "key": "iphone-17",
+      "storages": [
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1650
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2850
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2950
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3300
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1950
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3550
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 3575
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 17 Pro",
+      "key": "iphone-17-pro",
+      "storages": [
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2100
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 4000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4025
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 4450
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2650
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 4600
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4625
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 5050
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2950
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 4950
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4975
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 5400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 17 Pro Max",
+      "key": "iphone-17-pro-max",
+      "storages": [
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2200
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 5050
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 5075
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 5100
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2500
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 5650
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 5675
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 5800
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2850
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 6100
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 6125
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 6250
+            }
+          ]
+        },
+        {
+          "key": "2tb",
+          "label": "2TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 3000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 6300
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 6325
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 6700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 16e",
+      "key": "iphone-16e",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 550
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1050
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1300
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1450
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1600
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1750
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 700
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1900
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1925
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1950
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 16",
+      "key": "iphone-16",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2200
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2225
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2250
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1150
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2400
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2425
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2500
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1350
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2650
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2675
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 16 Plus",
+      "key": "iphone-16-plus",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2525
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2550
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1200
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2700
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2725
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2750
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1350
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2950
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2975
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 16 Pro",
+      "key": "iphone-16-pro",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1450
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2700
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2950
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1500
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2800
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2850
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3150
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1950
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3100
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 3250
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3450
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1950
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3450
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 3475
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 16 Pro Max",
+      "key": "iphone-16-pro-max",
+      "storages": [
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1650
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 3775
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3800
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1950
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 4150
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4175
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 4200
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2100
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 4650
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4675
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 4700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 15",
+      "key": "iphone-15",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 900
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1450
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1475
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1750
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1775
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1950
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1900
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1925
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1950
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 15 Plus",
+      "key": "iphone-15-plus",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 900
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1650
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1675
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1775
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1950
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2050
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2075
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2350
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 15 Pro",
+      "key": "iphone-15-pro",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1200
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1950
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1975
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2200
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1200
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2350
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2375
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2500
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1050
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2525
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2650
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1150
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2800
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2825
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "key": "iphone-15-pro-max",
+      "storages": [
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1200
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2550
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2575
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2800
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2800
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2825
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1350
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3100
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 3125
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 14",
+      "key": "iphone-14",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 900
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1150
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1150
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1350
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1525
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1550
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 14 Plus",
+      "key": "iphone-14-plus",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1200
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1350
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1300
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1350
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1500
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 750
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1450
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1600
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "key": "iphone-14-pro",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1350
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1375
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1600
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1600
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1650
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 850
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1800
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1950
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 900
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1900
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1950
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "key": "iphone-14-pro-max",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 750
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1800
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1825
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1850
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 850
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1950
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1975
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2000
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 900
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2200
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2225
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2250
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2350
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 2375
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone SE 2020",
+      "key": "iphone-se-2020",
+      "storages": [
+        {
+          "key": "64gb",
+          "label": "64GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 100
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 150
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 175
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 100
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 250
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 275
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 300
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 100
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 250
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 300
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 325
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone SE 2022",
+      "key": "iphone-se-2022",
+      "storages": [
+        {
+          "key": "64gb",
+          "label": "64GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 125
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 300
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 325
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 400
+            }
+          ]
+        },
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 125
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 300
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 450
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 550
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 125
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 400
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 550
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 13",
+      "key": "iphone-13",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 900
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1050
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1050
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1200
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1050
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1150
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 13 Mini",
+      "key": "iphone-13-mini",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 550
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 750
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 900
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 400
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1000
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1050
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 400
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 900
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1000
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "key": "iphone-13-pro",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 450
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1050
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1200
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1350
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 550
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1300
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1350
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1600
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 450
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1450
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1475
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1650
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 750
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1600
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "key": "iphone-13-pro-max",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1350
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1375
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1500
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 750
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1650
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1675
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1750
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 750
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1775
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 850
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1800
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1900
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 2050
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 12 Mini",
+      "key": "iphone-12-mini",
+      "storages": [
+        {
+          "key": "64gb",
+          "label": "64GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 250
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 300
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 550
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 250
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 550
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 575
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 700
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 250
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 550
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 700
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "key": "iphone-12-pro-max",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 550
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1150
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1200
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 550
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1150
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1300
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1450
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 600
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1200
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1500
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 12",
+      "key": "iphone-12",
+      "storages": [
+        {
+          "key": "64gb",
+          "label": "64GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 450
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 550
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 250
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 700
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 725
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 750
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 300
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 750
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 775
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "key": "iphone-12-pro",
+      "storages": [
+        {
+          "key": "128gb",
+          "label": "128GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 400
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 700
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 850
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1000
+            }
+          ]
+        },
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 450
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1050
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1200
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 550
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1200
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1300
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
