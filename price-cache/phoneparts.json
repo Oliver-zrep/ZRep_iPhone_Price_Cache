@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-08-13T01:43:47.150Z",
+  "updatedAt": "2026-08-14T01:43:06.323Z",
   "models": [
     {
       "name": "iPhone 17",
@@ -19,12 +19,12 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 2850
+              "price": 2950
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 2950
+              "price": 2975
             },
             {
               "key": "perfekt",
@@ -113,7 +113,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5050
+              "price": 5100
             }
           ]
         },
