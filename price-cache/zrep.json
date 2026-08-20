@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-08-18T01:43:14.863Z",
+  "updatedAt": "2026-08-20T01:43:06.471Z",
   "models": [
     {
       "name": "iPhone 17",
@@ -139,7 +139,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5350
+              "price": 5400
             }
           ]
         }
@@ -208,7 +208,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2800
+              "price": 2850
             },
             {
               "key": "brugt",
