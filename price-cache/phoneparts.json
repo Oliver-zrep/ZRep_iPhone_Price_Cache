@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-08-20T01:43:06.471Z",
+  "updatedAt": "2026-08-21T01:43:09.104Z",
   "models": [
     {
       "name": "iPhone 17",
@@ -129,17 +129,17 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 4950
+              "price": 4900
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4975
+              "price": 4925
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5400
+              "price": 5350
             }
           ]
         }
@@ -208,7 +208,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2850
+              "price": 2800
             },
             {
               "key": "brugt",
@@ -407,17 +407,17 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 2650
+              "price": 2550
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 2675
+              "price": 2575
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2700
+              "price": 2650
             }
           ]
         }
