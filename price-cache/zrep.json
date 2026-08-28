@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-08-26T01:43:17.679Z",
+  "updatedAt": "2026-08-28T01:43:07.676Z",
   "models": [
     {
       "name": "iPhone 17",
@@ -14,7 +14,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 1650
+              "price": 750
             },
             {
               "key": "brugt",
@@ -24,12 +24,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 2950
+              "price": 3750
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 3300
+              "price": 4000
             }
           ]
         },
@@ -40,7 +40,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 1900
+              "price": 750
             },
             {
               "key": "brugt",
@@ -50,12 +50,96 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3575
+              "price": 4450
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 3700
+              "price": 4650
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "iPhone Air",
+      "key": "iphone-air",
+      "storages": [
+        {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2350
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 2650
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 3600
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 3750
+            }
+          ]
+        },
+        {
+          "key": "512gb",
+          "label": "512GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 2650
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3000
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4200
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 4300
+            }
+          ]
+        },
+        {
+          "key": "1tb",
+          "label": "1TB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 3000
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 3450
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 4800
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 4900
             }
           ]
         }
@@ -72,7 +156,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2100
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -82,12 +166,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3925
+              "price": 4950
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4350
+              "price": 5250
             }
           ]
         },
@@ -98,7 +182,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2650
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -108,12 +192,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4625
+              "price": 5550
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5050
+              "price": 5950
             }
           ]
         },
@@ -124,7 +208,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2850
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -134,12 +218,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4925
+              "price": 5950
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5350
+              "price": 6250
             }
           ]
         }
@@ -156,7 +240,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2200
+              "price": 1500
             },
             {
               "key": "brugt",
@@ -166,12 +250,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4975
+              "price": 6250
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5050
+              "price": 6450
             }
           ]
         },
@@ -182,7 +266,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2500
+              "price": 1500
             },
             {
               "key": "brugt",
@@ -192,12 +276,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 5575
+              "price": 7000
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5700
+              "price": 7200
             }
           ]
         },
@@ -208,7 +292,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2800
+              "price": 1500
             },
             {
               "key": "brugt",
@@ -218,12 +302,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 6025
+              "price": 7450
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 6150
+              "price": 7650
             }
           ]
         },
@@ -234,7 +318,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2950
+              "price": 1500
             },
             {
               "key": "brugt",
@@ -244,12 +328,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 6275
+              "price": 7650
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 6600
+              "price": 7900
             }
           ]
         }
@@ -266,38 +350,12 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 550
+              "price": 900
             },
             {
               "key": "brugt",
               "label": "Brugt",
               "price": 1050
-            },
-            {
-              "key": "velholdt",
-              "label": "Velholdt",
-              "price": 1300
-            },
-            {
-              "key": "perfekt",
-              "label": "Perfekt",
-              "price": 1450
-            }
-          ]
-        },
-        {
-          "key": "256gb",
-          "label": "256GB",
-          "conditions": [
-            {
-              "key": "slidt",
-              "label": "Slidt",
-              "price": 600
-            },
-            {
-              "key": "brugt",
-              "label": "Brugt",
-              "price": 1500
             },
             {
               "key": "velholdt",
@@ -312,13 +370,39 @@
           ]
         },
         {
+          "key": "256gb",
+          "label": "256GB",
+          "conditions": [
+            {
+              "key": "slidt",
+              "label": "Slidt",
+              "price": 1150
+            },
+            {
+              "key": "brugt",
+              "label": "Brugt",
+              "price": 1500
+            },
+            {
+              "key": "velholdt",
+              "label": "Velholdt",
+              "price": 1750
+            },
+            {
+              "key": "perfekt",
+              "label": "Perfekt",
+              "price": 1800
+            }
+          ]
+        },
+        {
           "key": "512gb",
           "label": "512GB",
           "conditions": [
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 700
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -333,7 +417,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1900
+              "price": 1950
             }
           ]
         }
@@ -439,12 +523,12 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 2400
+              "price": 2500
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 2425
+              "price": 2525
             },
             {
               "key": "perfekt",
@@ -523,7 +607,7 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 2400
+              "price": 2500
             },
             {
               "key": "velholdt",
@@ -685,17 +769,17 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 4600
+              "price": 4650
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4625
+              "price": 4675
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4650
+              "price": 4700
             }
           ]
         }
