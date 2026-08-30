@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-08-29T01:43:09.150Z",
+  "updatedAt": "2026-08-30T01:43:05.806Z",
   "models": [
     {
       "name": "iPhone 17",
@@ -113,7 +113,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4300
+              "price": 4350
             }
           ]
         },
@@ -139,7 +139,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4900
+              "price": 4950
             }
           ]
         }
@@ -271,7 +271,7 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 5550
+              "price": 5650
             },
             {
               "key": "velholdt",
@@ -350,7 +350,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "brugt",
@@ -376,7 +376,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1150
             },
             {
               "key": "brugt",
@@ -391,7 +391,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1800
+              "price": 1900
             }
           ]
         },
@@ -402,7 +402,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 1000
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -412,7 +412,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 1800
+              "price": 1900
             },
             {
               "key": "perfekt",
@@ -602,7 +602,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 1350
+              "price": 1450
             },
             {
               "key": "brugt",
@@ -664,7 +664,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3150
+              "price": 3250
             },
             {
               "key": "perfekt",
@@ -695,7 +695,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 3700
+              "price": 3750
             }
           ]
         }
@@ -764,7 +764,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2050
+              "price": 2100
             },
             {
               "key": "brugt",
@@ -822,7 +822,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "brugt",
@@ -895,7 +895,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1800
+              "price": 1900
             }
           ]
         },
@@ -906,7 +906,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "brugt",
@@ -947,7 +947,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2250
+              "price": 2350
             }
           ]
         }
@@ -964,7 +964,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 1150
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -1294,7 +1294,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 700
+              "price": 750
             },
             {
               "key": "brugt",
@@ -1326,7 +1326,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "brugt",
@@ -1367,7 +1367,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1800
+              "price": 1900
             }
           ]
         },
@@ -1514,7 +1514,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "brugt",
@@ -1608,12 +1608,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 275
+              "price": 300
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 300
+              "price": 325
             }
           ]
         }
@@ -1755,7 +1755,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1150
+              "price": 1200
             }
           ]
         },
@@ -1834,7 +1834,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "perfekt",
@@ -1892,7 +1892,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 1150
+              "price": 1200
             },
             {
               "key": "perfekt",
@@ -1960,7 +1960,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 700
+              "price": 750
             },
             {
               "key": "brugt",
@@ -2080,7 +2080,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 1825
+              "price": 1900
             },
             {
               "key": "perfekt",
@@ -2112,7 +2112,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 450
+              "price": 550
             },
             {
               "key": "perfekt",
@@ -2186,7 +2186,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 450
+              "price": 550
             },
             {
               "key": "brugt",
@@ -2270,7 +2270,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 250
+              "price": 300
             },
             {
               "key": "brugt",
@@ -2322,7 +2322,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 250
+              "price": 300
             },
             {
               "key": "brugt",
@@ -2369,7 +2369,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 900
+              "price": 1000
             }
           ]
         },
@@ -2395,7 +2395,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1150
+              "price": 1200
             }
           ]
         },
@@ -2406,7 +2406,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 450
+              "price": 550
             },
             {
               "key": "brugt",
@@ -2416,7 +2416,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 1150
+              "price": 1200
             },
             {
               "key": "perfekt",
