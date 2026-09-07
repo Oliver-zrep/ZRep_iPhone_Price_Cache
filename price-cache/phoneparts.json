@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-09-06T01:43:06.780Z",
+  "updatedAt": "2026-09-07T01:43:15.255Z",
   "models": [
     {
       "name": "iPhone SE 2020",
@@ -213,12 +213,12 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 450
+              "price": 550
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 550
+              "price": 575
             },
             {
               "key": "perfekt",
@@ -381,7 +381,7 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "velholdt",
@@ -407,7 +407,7 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "velholdt",
@@ -1047,7 +1047,7 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 1350
+              "price": 1450
             },
             {
               "key": "velholdt",
@@ -1383,12 +1383,12 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 1600
+              "price": 1650
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 1625
+              "price": 1675
             },
             {
               "key": "perfekt",
@@ -1991,12 +1991,12 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 3400
+              "price": 3450
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3450
+              "price": 3475
             },
             {
               "key": "perfekt",
@@ -2049,17 +2049,17 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 4050
+              "price": 4150
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4075
+              "price": 4175
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4100
+              "price": 4200
             }
           ]
         },
@@ -2312,7 +2312,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4750
+              "price": 4800
             },
             {
               "key": "perfekt",
@@ -2343,7 +2343,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 5650
+              "price": 5700
             }
           ]
         },
