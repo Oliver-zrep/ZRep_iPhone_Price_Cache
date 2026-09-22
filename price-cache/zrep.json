@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-09-21T01:43:07.415Z",
+  "updatedAt": "2026-09-22T01:43:09.271Z",
   "models": [
     {
       "name": "iPhone SE 2020",
@@ -837,7 +837,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1750
+              "price": 1800
             }
           ]
         },
@@ -1057,7 +1057,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1750
+              "price": 1800
             }
           ]
         }
@@ -1503,7 +1503,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2500
+              "price": 2550
             }
           ]
         },
@@ -2218,7 +2218,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2400
+              "price": 2250
             },
             {
               "key": "brugt",
@@ -2244,7 +2244,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2650
+              "price": 2550
             },
             {
               "key": "brugt",
@@ -2270,7 +2270,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 3100
+              "price": 2950
             },
             {
               "key": "brugt",
