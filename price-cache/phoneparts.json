@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-09-23T01:43:13.189Z",
+  "updatedAt": "2026-09-24T01:43:14.287Z",
   "models": [
     {
       "name": "iPhone SE 2020",
@@ -470,7 +470,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 1300
+              "price": 1350
             },
             {
               "key": "perfekt",
@@ -528,7 +528,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 750
+              "price": 850
             },
             {
               "key": "perfekt",
@@ -811,7 +811,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1500
+              "price": 1600
             }
           ]
         },
@@ -848,7 +848,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 750
+              "price": 850
             },
             {
               "key": "brugt",
@@ -889,7 +889,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2050
+              "price": 2100
             }
           ]
         }
@@ -973,7 +973,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 1550
+              "price": 1600
             }
           ]
         }
@@ -1184,7 +1184,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 750
+              "price": 850
             },
             {
               "key": "brugt",
@@ -1587,7 +1587,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2800
+              "price": 2850
             }
           ]
         },
@@ -1613,7 +1613,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 3000
+              "price": 3100
             }
           ]
         },
@@ -1671,7 +1671,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2250
+              "price": 2350
             }
           ]
         },
@@ -1839,7 +1839,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 2550
+              "price": 2650
             }
           ]
         },
@@ -2228,7 +2228,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3550
+              "price": 3600
             },
             {
               "key": "perfekt",
@@ -2244,7 +2244,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2550
+              "price": 2500
             },
             {
               "key": "brugt",
@@ -2270,7 +2270,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 2950
+              "price": 2800
             },
             {
               "key": "brugt",
