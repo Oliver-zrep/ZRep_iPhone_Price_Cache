@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-10-22T01:43:12.386Z",
+  "updatedAt": "2026-10-23T01:43:17.163Z",
   "models": [
     {
       "name": "iPhone SE 2020",
@@ -2138,7 +2138,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 4600
+              "price": 4650
             },
             {
               "key": "perfekt",
@@ -2170,7 +2170,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3100
+              "price": 3150
             },
             {
               "key": "perfekt",
@@ -2359,12 +2359,12 @@
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 4750
+              "price": 4800
             },
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 5650
+              "price": 5700
             },
             {
               "key": "perfekt",
@@ -2422,7 +2422,7 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 6150
+              "price": 6250
             },
             {
               "key": "perfekt",
