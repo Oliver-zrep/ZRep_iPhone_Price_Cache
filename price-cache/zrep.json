@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-10-24T01:43:33.274Z",
+  "updatedAt": "2026-10-25T02:43:12.229Z",
   "models": [
     {
       "name": "iPhone SE 2020",
@@ -1740,12 +1740,12 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1000
             },
             {
               "key": "brugt",
               "label": "Brugt",
-              "price": 1000
+              "price": 1025
             },
             {
               "key": "velholdt",
@@ -1766,7 +1766,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1150
             },
             {
               "key": "brugt",
@@ -1792,7 +1792,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 1050
+              "price": 1300
             },
             {
               "key": "brugt",
