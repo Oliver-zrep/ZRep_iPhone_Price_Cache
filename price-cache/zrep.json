@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": 1,
-  "updatedAt": "2026-11-18T02:43:15.420Z",
+  "updatedAt": "2026-11-19T02:43:17.502Z",
   "models": [
     {
       "name": "iPhone SE 2020",
@@ -1740,7 +1740,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 850
+              "price": 900
             },
             {
               "key": "brugt",
@@ -1766,7 +1766,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 850
+              "price": 1150
             },
             {
               "key": "brugt",
@@ -1792,7 +1792,7 @@
             {
               "key": "slidt",
               "label": "Slidt",
-              "price": 900
+              "price": 1200
             },
             {
               "key": "brugt",
@@ -2028,12 +2028,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3400
+              "price": 3300
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 3750
+              "price": 3700
             }
           ]
         },
@@ -2054,12 +2054,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3750
+              "price": 3700
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4150
+              "price": 4050
             }
           ]
         },
@@ -2080,12 +2080,12 @@
             {
               "key": "velholdt",
               "label": "Velholdt",
-              "price": 3900
+              "price": 3850
             },
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4350
+              "price": 4300
             }
           ]
         }
@@ -2259,7 +2259,7 @@
             {
               "key": "perfekt",
               "label": "Perfekt",
-              "price": 4000
+              "price": 4050
             }
           ]
         },
